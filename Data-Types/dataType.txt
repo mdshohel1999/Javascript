@@ -1,0 +1,22 @@
+7 data types are primitive data type
+
+1. string
+=> String is a sequence of characters which is used to represent text.
+
+2. number 
+=> Number is numeric data type. there are manay programming numeric types. for example interger, floating, double and etc.
+
+3. bigint
+=>Bigint is a numeric data that can represent the integer value or integer number.
+
+4. boolean
+=>Boolean is a logical data type that can have only the values true or false.
+
+5. undefined
+=> In JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+
+6. symbol
+=>
+
+7. null
+=>It is a value that represents the intentional absence of any object value.

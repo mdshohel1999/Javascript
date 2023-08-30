@@ -1,0 +1,9 @@
+A javascritp variable is name container which is used store the data values.
+
+There are three type of javascript variable.
+
+1. const : const is a block-scoped which we don't change the data. It is fixed data.
+
+2. let : 'let' are block-scoped. When we need change the data then we can use to let variable. It is totally dynamic.
+
+3. var : Declares a variable, optionally initializing it to a value.
